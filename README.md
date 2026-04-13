@@ -32,6 +32,7 @@ I lean toward math-heavy problems and care a lot about the details, both how som
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Lilac-Rose&show_icons=true&hide_border=false&bg_color=0a0a14&title_color=0098CD&text_color=f0e6ff&icon_color=0098CD&border_color=0098CD&include_all_commits=true&count_private=true&rank_icon=github&hide=contribs">
   <img src="https://github-readme-stats.vercel.app/api?username=Lilac-Rose&show_icons=true&hide_border=false&bg_color=ffffff&title_color=0098CD&text_color=111111&icon_color=0098CD&border_color=0098CD&include_all_commits=true&count_private=true&rank_icon=github&hide=contribs" alt="GitHub Stats">
 </picture>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Lilac-Rose&layout=compact&hide_border=false&bg_color=0a0a14&title_color=0098CD&text_color=f0e6ff&border_color=0098CD&langs_count=8&hide=ShaderLab,HLSL">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lilac-Rose&layout=compact&hide_border=false&bg_color=ffffff&title_color=0098CD&text_color=111111&border_color=0098CD&langs_count=8&hide=ShaderLab,HLSL" alt="Top Languages">
